@@ -1,5 +1,5 @@
 # Uber-Hotspot-Detection
-## Detects Uber hotspots using Satscan Algorithm
+## Detects Uber hotspots using Satscan Algorithm(this project is for a small part of the Uber data)
 
 This project involves the analysis of pickup locations from a given CSV file to identify potential hotspots where a higher density of pickups is observed. The project utilizes Python and various libraries such as pandas, numpy, Flask, gmplot, and math for data processing, geospatial calculations, and visualization. The SaTScan algorithm is also employed for hotspot detection.
 
